@@ -37,6 +37,8 @@ color: #000099;
 text-transform: uppercase;
     margin-bottom: 40px;
 }
+h1 span{ 
+    background-color: white;
 
 #about .content h1,
 #portfolio .content h1,
